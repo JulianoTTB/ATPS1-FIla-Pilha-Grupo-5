@@ -28,6 +28,10 @@
  <img width="523" height="503" alt="image" src="https://github.com/user-attachments/assets/54826b20-02c7-4b22-9e1c-e630d8b37afe" /><br>
  <br>
 
+ # Fila.java
+
+ Essa classe possui 3 atributos, dois do tipo 'No', um para o inicio da fila (cabeça) e outro para o fim da fila (cauda)
+
 
 
  
